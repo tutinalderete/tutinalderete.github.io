@@ -1,0 +1,60 @@
+body {
+  font-family: Newsreader;
+  color: white;
+  font-size: 40px;
+  font-weight: 900;
+  margin: 0;
+}
+h1{
+  font-family: Newsreader;
+  color: 000000;
+  font-size: 60px;
+  font-weight: 900;
+  margin: auto;
+}
+h2, h3{
+  text-align: center;
+  font-family: Newsreader ital;
+  color: grey;
+  font-size: 15 px;
+}
+
+a{
+  text-decoration: none;
+}
+.banner{
+    background-image: url(Oficina.jpg);
+    background-size: cover;
+    background-position: center;
+    padding: 150px 0;
+    text-align: center;
+}
+.btn-black {
+  background-color: black;
+  color: white;
+  font-size: 20px;
+  font-weight: 500;
+  padding: 0.5em 1.2em;
+
+}
+.container{
+  width: 900px;
+  margin: 60px auto;
+}
+.card-white {
+  text-align: center;
+  background-color: white;
+  color: black;
+  box-shadow: 0 0 16px rgb(0, 0, 0);
+}
+footer{
+  text-align: center;
+  background-color: black;
+  font-size: 50px;
+  width: auto;
+  height: 100px;
+  margin: auto;
+  justify-content: center;
+  padding: 10px 20px;
+
+}
